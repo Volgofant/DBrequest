@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6e9692ca-db76-4f90-ae15-fd29ed1cbff1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GetCountCustomersClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GetCountCustomersClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GetCountCustomersShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GetCountCustomersShop.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

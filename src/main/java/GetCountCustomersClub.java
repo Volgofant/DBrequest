@@ -8,9 +8,9 @@ final class GetCountCustomersClub {
     }
 
     GetCountCustomersClub() {
-        final String url = "jdbc:mysql://192.168.48.54/bob_live";
-        final String user = "shop-reader";
-        final String password = "sMofX5QyjfrxdMDOivo4zoIuohR4pAYI";
+        final String url = "url";
+        final String user = "user";
+        final String password = "pass";
         String query = "select count(*) from customer";
         try (Connection con = DriverManager.getConnection(url, user, password); Statement stmt = con.createStatement(); ResultSet rs = stmt.executeQuery(query)) {
             while (rs.next()) {
